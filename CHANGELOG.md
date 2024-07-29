@@ -6,6 +6,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
+## [0.1.1](https://github.com/KongHack/Enums/releases/tag/0.1.1)
+- @GameCharmer patch namespace
+
+
+
 ## [0.1.0](https://github.com/KongHack/Enums/releases/tag/0.1.0)
 - @GameCharmer Initial version for Enums repo. Currently contains the EnumtoArray Trait
 

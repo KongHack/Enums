@@ -1,5 +1,5 @@
 <?php
-namespace GCWorld\Enums\Traits\EnumTraits;
+namespace GCWorld\Enums\Traits;
 
 /**
  * EnumToArrayTrait trait.
